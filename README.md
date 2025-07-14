@@ -13,7 +13,7 @@ My research focuses on **open-source intelligence (OSINT)**, military procuremen
 ## Get in Touch
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/zslazar/)
 
----
+
 
 <!---
 lazar-bit/lazar-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
