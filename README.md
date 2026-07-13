@@ -1,21 +1,74 @@
-# 👋 Hi, I’m @lazar-bit
+# 👋 Hi, I’m Zsolt Lazar (@lazar-bit)
 
-## About Me
-I am a researcher specializing in defence and security policy with a multidisciplinary background spanning European defence industrial cooperation, arms trade, and emerging technologies.
-My academic background combines international business, management, and information systems.
+## Defence & Security Researcher | OSINT Analyst | Data-Driven Research
 
-My research focuses on **open-source intelligence (OSINT)**, military procurement, and data-driven conflict analysis, with a strong emphasis on visualization and analytical methods.
+I am a defence and security policy researcher with a multidisciplinary background combining **security studies, international business, management, and information systems**.
 
-## Interests & Collaboration
-- 🔍 Data science, OSINT, and analytics in defence and security contexts
-- 🤝 Open to collaborating on projects involving **web scraping**, **data visualization**, and OSINT-driven research
+My research focuses on the intersection of **defence innovation, emerging technologies, and data-driven analytical methods**. I apply both qualitative and computational approaches to examine contemporary security challenges, military transformation, and the role of digital technologies in defence environments.
 
-## Get in Touch
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/zslazar/)
+My interests include:
 
+- 🔍 Open-Source Intelligence (OSINT)
+- 🛰️ Satellite and remote sensing data analysis
+- 🌍 Geospatial intelligence and visualization
+- 📊 Data science and analytical methods
+- 🤖 Artificial intelligence and machine learning applications
+- 🛡️ Defence innovation and military technology
 
+---
 
-<!---
-lazar-bit/lazar-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧠 Research Interests
+
+- European defence cooperation and industrial policy
+- Military innovation and emerging technologies
+- Contemporary conflict dynamics
+- Information environments and strategic communication
+- Data-driven approaches to security research
+
+I am interested in developing and applying computational methods that support rigorous analysis of complex defence and security questions.
+
+---
+
+## 🛠️ Technical Interests
+
+**Programming & Data Analysis**
+- Python
+- Data processing and automation
+- Statistical analysis
+- Web-based data collection
+
+**Geospatial & Digital Methods**
+- GIS and spatial analysis
+- Remote sensing
+- Data visualization
+- Information systems
+
+---
+
+## 🤝 Collaboration
+
+I am open to collaborations related to:
+
+- OSINT and security research
+- Defence technology analysis
+- Data science applications
+- Geospatial analytics
+- Computational social science
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazar-bit&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazar-bit&layout=compact&theme=transparent)
+
+---
+
+## 📫 Get in Touch
+
+🔗 LinkedIn: https://www.linkedin.com/in/zslazar/
+
+---
+
+*"Exploring security challenges through data, technology, and interdisciplinary research."*
