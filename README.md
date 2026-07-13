@@ -57,14 +57,6 @@ I am open to collaborations related to:
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lazar-bit&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lazar-bit&layout=compact&theme=transparent)
-
----
-
 ## 📫 Get in Touch
 
 🔗 LinkedIn: https://www.linkedin.com/in/zslazar/
